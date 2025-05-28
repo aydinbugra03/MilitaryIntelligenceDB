@@ -307,5 +307,5 @@ For technical issues:
 ---
 
 **Project Status**: DEMO READY
-**Last Updated**: January 2025  
-**Version**: 1.0 - CS306 Phase III Submission 
+**Last Updated**: 28 MAY 2025 
+**Version**: 1.1 - CS306 Phase III Submission 
